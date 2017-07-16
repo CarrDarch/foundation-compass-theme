@@ -1,0 +1,6 @@
+!.gitignore
+.phpintel/*
+*.DS_Store
+foundation-theme/.*
+foundation-theme/bower_components/*
+foundation-theme/.sass-cache/*
